@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Atbash.h"
 
 Atbash::Atbash(const std::string& cipherText) : cipherText(cipherText)

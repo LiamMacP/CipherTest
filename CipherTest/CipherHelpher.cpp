@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "CipherHelper.h"
 
 char CipherHelper::DICTIONARY[] = { ' ', '.', ',', 'a', 'b', 'c', 'd', 'e', 'f', 'g',
