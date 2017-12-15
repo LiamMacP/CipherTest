@@ -32,7 +32,7 @@
     <ClCompile Include="Atbash.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CipherHelpher.cpp">
+    <ClCompile Include="CipherHelper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

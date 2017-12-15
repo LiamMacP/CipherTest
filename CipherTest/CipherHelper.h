@@ -4,7 +4,7 @@ class CipherHelper
 {
 public:
 	const static int DICTIONARY_SIZE = 29;
-	static char DICTIONARY[];
+	const static char DICTIONARY[]; // Cannot initialise an static array in the header.
 	static int CharacterLocation(const char& characterToFind) {
 		for (int i = 0; i < DICTIONARY_SIZE; i++) {
 			if (DICTIONARY[i] == characterToFind) {

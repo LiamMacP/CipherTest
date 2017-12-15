@@ -143,7 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Atbash.cpp" />
-    <ClCompile Include="CipherHelpher.cpp" />
+    <ClCompile Include="CipherHelper.cpp" />
     <ClCompile Include="CipherTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
